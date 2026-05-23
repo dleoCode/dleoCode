@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dleoCode/dleoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy David López 
+#### Estudiante de Análisis y Desarrollo de Software
+###### Etapa productiva
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Sección de Sobre Mí -->
+###### Sobre mí:
+Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en etapa productiva, me encuentro en un proceso de aprendizaje, continuo descubriendo nuevas tecnologias.
+
+<!-- Sección de Conocimientos  -->
+###### Conocimientos en:
+
+| Lenguajes | Nivel | Estado |
+| --- | --- | --- |
+| Python | Básico | Aprendiendo |
+
+| Bases de datos | Estado |
+| --- | --- |
+| MySQL| Aprendiendo |
+| PostgreSQL| Aprendiendo | 
+
+| Documentación y pruebas de la API | Usos |
+| --- | --- |
+| Postman | Pocos |
