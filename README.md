@@ -1,8 +1,10 @@
+![](assets/banner_github.png)
+
 <div align="center">
 
 # Hola, soy David López 
 #### Estudiante de Análisis y Desarrollo de Software
-###### Etapa productiva
+###### Estoy en Etapa productiva
 
 </div>
 
