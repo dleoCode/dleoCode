@@ -1,5 +1,5 @@
 <!-- Imagen del banner -->
-![](assets/banner_github.png) 
+![](assets/images/banner/banner_github.png) 
 
 <!-- Sección principal -->
 <div align="center">
@@ -20,24 +20,24 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 ###### Conocimientos en:
 
 <!-- Lenguajes de programación  -->
-| Lenguajes | Nivel | Estado |
-| --- | --- | --- |
-| Python | Básico | Aprendiendo |
-| JavaScript | Básico | En pausa |
-| Java | Básico | En Pausa |
+| Logo | Lenguajes | Nivel | Estado |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | Básico | Aprendiendo |
+| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | Básico | En pausa |
+| <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | Básico | En Pausa |
 
 <!-- Bases de datos Relacionales -->
-| Bases de datos Relacionales | Nivel | Estado |
-| --- | --- | --- |
-| MySQL| Básico | En pausa  |
-| PostgreSQL| Básico | Aprendiendo |
+| Logo | Bases de datos Relacionales | Nivel | Estado |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | MySQL| Básico | En pausa  |
+| <img src="assets/images/logos/postgresql.png" width="50" alt="Logo de PostgreSQL" /> | PostgreSQL| Básico | Aprendiendo |
 
 <!-- Bases de datos NO relacionales  -->
-| Bases de datos No Relacionales | Nivel | Estado |
-| --- | --- | --- |
-| MongoDB | Básico | En pausa  |
+| Logo | Bases de datos No Relacionales | Nivel | Estado |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/mongodb.png" width="25" alt="Logo de MongoDB" /> | MongoDB | Básico | En pausa  |
 
 <!-- API  -->
-| Documentación y pruebas de la API | Usos |
-| --- | --- |
-| Postman | Pocos |
+| Logo | Documentación y pruebas de la API | Usos |
+| :---: | --- | --- |
+| <img src="assets/images/logos/postman.png" width="50" alt="Logo de Postman" /> | Postman | Pocos |
