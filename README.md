@@ -38,6 +38,6 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 | <img src="assets/images/logos/mongodb.png" width="20"/><br/>MongoDB | Básico | En Pausa  |
 
 <!-- API  -->
-| Documentación Y Pruebas API | Usos |
-| :---: | :---: |
-| <img src="assets/images/logos/postman.png" width="40"/><br/>Postman | Pocos |
+| Documentación Y Pruebas API | Nivel | Estado | Usos |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/images/logos/postman.png" width="40"/><br/>Postman | Básico | En Pausa | Pocos |
