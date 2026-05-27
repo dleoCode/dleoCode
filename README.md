@@ -19,25 +19,25 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 <!-- Sección de Conocimientos  -->
 ###### Conocimientos en:
 
-<!-- Lenguajes de programación  -->
+<!-- Lenguajes De Programación  -->
 | Logo | Lenguajes |  | IDE / Editor | Nivel | Estado |
 | :---: | --- | --- | --- | --- | --- |
 | <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | <img src="assets/images/logos/vscode.png" width="38" alt="Logo de Visual Studio Code" /> | VS Code | Básico | Aprendiendo |
-| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | <img src="assets/images/logos/vscode.png" width="38" alt="Logo de Visual Studio Code" /> | VS Code | Básico | En pausa |
+| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | <img src="assets/images/logos/vscode.png" width="38" alt="Logo de Visual Studio Code" /> | VS Code | Básico | En Pausa |
 | <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | <img src="assets/images/logos/intellijidea.png" width="38" alt="Logo de IntelliJ IDEA" /> | IntelliJ IDEA | Básico | En Pausa |
 
-<!-- Bases de datos Relacionales -->
-| Logo | Bases de datos Relacionales | Nivel | Estado |
+<!-- Bases De Datos Relacionales -->
+| Logo | Bases De Datos Relacionales | Nivel | Estado |
 | :---: | --- | --- | --- |
-| <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | MySQL| Básico | En pausa  |
+| <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | MySQL| Básico | En Pausa  |
 | <img src="assets/images/logos/postgresql.png" width="50" alt="Logo de PostgreSQL" /> | PostgreSQL| Básico | Aprendiendo |
 
-<!-- Bases de datos NO relacionales  -->
-| Logo | Bases de datos No Relacionales | Nivel | Estado |
+<!-- Bases de Datos NO Relacionales  -->
+| Logo | Bases De Datos No Relacionales | Nivel | Estado |
 | :---: | --- | --- | --- |
-| <img src="assets/images/logos/mongodb.png" width="25" alt="Logo de MongoDB" /> | MongoDB | Básico | En pausa  |
+| <img src="assets/images/logos/mongodb.png" width="25" alt="Logo de MongoDB" /> | MongoDB | Básico | En Pausa  |
 
 <!-- API  -->
-| Logo | Documentación y pruebas de la API | Usos |
+| Logo | Documentación Y Pruebas API | Usos |
 | :---: | --- | --- |
 | <img src="assets/images/logos/postman.png" width="50" alt="Logo de Postman" /> | Postman | Pocos |
