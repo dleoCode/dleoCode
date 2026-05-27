@@ -21,56 +21,23 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 
 <!-- Lenguajes de programación  -->
 | Logo | Lenguajes | Nivel | Estado |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | <span class="badge nivel-basico">Básico</span> | <span class="badge aprendiendo">Aprendiendo</span> |
-| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | <span class="badge nivel-basico">Básico</span> | <span class="badge estado-pausa">En Pausa</span> |
-| <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | <span class="badge nivel-basico">Básico</span> | <span class="badge estado-pausa">En Pausa</span> |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | Básico | Aprendiendo |
+| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | Básico | En pausa |
+| <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | Básico | En Pausa |
 
 <!-- Bases de datos Relacionales -->
 | Logo | Bases de datos Relacionales | Nivel | Estado |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | MySQL| <span class="badge nivel-basico">Básico</span> | <span class="badge estado-pausa">En Pausa</span>  |
-| <img src="assets/images/logos/postgresql.png" width="50" alt="Logo de PostgreSQL" /> | PostgreSQL| <span class="badge nivel-basico">Básico</span> | <span class="badge aprendiendo">Aprendiendo</span> |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | MySQL| Básico | En pausa  |
+| <img src="assets/images/logos/postgresql.png" width="50" alt="Logo de PostgreSQL" /> | PostgreSQL| Básico | Aprendiendo |
 
 <!-- Bases de datos NO relacionales  -->
 | Logo | Bases de datos No Relacionales | Nivel | Estado |
-| :---: | :---: | :---: | :---: |
-| <img src="assets/images/logos/mongodb.png" width="25" alt="Logo de MongoDB" /> | MongoDB | <span class="badge nivel-basico">Básico</span> | <span class="badge estado-pausa">En Pausa</span>  |
+| :---: | --- | --- | --- |
+| <img src="assets/images/logos/mongodb.png" width="25" alt="Logo de MongoDB" /> | MongoDB | Básico | En pausa  |
 
 <!-- API  -->
 | Logo | Documentación y pruebas de la API | Usos |
-| :---: | :---: | :---: |
-| <img src="assets/images/logos/postman.png" width="50" alt="Logo de Postman" /> | Postman | <span class="badge usos-pocos">Pocos</span> |
-
-<!-- Los badge -->
-<style>
-    .badge {
-        display: inline-block;
-        padding: 4px 12px;
-        border-radius: 999px;
-        font-size: 0.85rem;
-        font-weight: 500;
-        border: 1px solid transparent;
-        background-color: transparent;
-    }
-
-    .nivel-basico {
-        border-color: #60a5fa;
-        color: #60a5fa;
-    }
-
-    .aprendiendo {
-        border-color: #4ade80;
-        color: #4ade80;
-    }
-
-    .estado-pausa {
-        border-color: #f59e0b;
-        color: #f59e0b;
-    }
-
-    .usos-pocos {
-        border-color: #ee2b2b;
-        color: #ee2b2b;
-    }
-</style>
+| :---: | --- | --- |
+| <img src="assets/images/logos/postman.png" width="50" alt="Logo de Postman" /> | Postman | Pocos |
