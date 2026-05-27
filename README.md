@@ -20,11 +20,11 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 ###### Conocimientos en:
 
 <!-- Lenguajes de programación  -->
-| Logo | Lenguajes | Nivel | Estado |
-| :---: | --- | --- | --- |
-| <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | Básico | Aprendiendo |
-| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | Básico | En pausa |
-| <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | Básico | En Pausa |
+| Logo | Lenguajes |  | IDE / Editor | Nivel | Estado |
+| :---: | --- | --- | --- | --- | --- |
+| <img src="assets/images/logos/python.png" width="50" alt="Logo de Python" />  | Python | <img src="assets/images/logos/vscode.png" width="38" alt="Logo de Visual Studio Code" /> | VS Code | Básico | Aprendiendo |
+| <img src="assets/images/logos/javascript.png" width="50" alt="Logo de JavaScript" /> | JavaScript | <img src="assets/images/logos/vscode.png" width="38" alt="Logo de Visual Studio Code" /> | VS Code | Básico | En pausa |
+| <img src="assets/images/logos/java.png" width="50" alt="Logo de Java" /> | Java | <img src="assets/images/logos/intellijidea.png" width="38" alt="Logo de IntelliJ IDEA" /> | IntelliJ IDEA | Básico | En Pausa |
 
 <!-- Bases de datos Relacionales -->
 | Logo | Bases de datos Relacionales | Nivel | Estado |
