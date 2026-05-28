@@ -13,13 +13,14 @@
 ---
 
 <!-- Sección de Sobre Mí -->
-###### Sobre mí:
+#### Sobre mí:
 Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en etapa productiva, estoy en un proceso de aprendizaje continuo descubriendo nuevas tecnologias, con el objetivo de contribuir a la industria tecnológica actual con mis conocimientos, adaptándome y creciendo profesionalmente.
 
 <!-- Sección de Conocimientos  -->
-###### Conocimientos en:
+#### Conocimientos en:
 
 <!-- Lenguajes De Programación  -->
+###### Lenguajes De Programación:
 | Lenguajes | IDE / Editor | Nivel | Estado |
 | :---: | :---: | :---: | :---: |
 | <img src="assets/images/logos/python.png" width="40"/><br/>Python | <img src="assets/images/logos/vscode.png" width="40"/><br/>VS Code | Básico | Aprendiendo |
@@ -27,17 +28,20 @@ Soy estudiante de Análisis y Desarrollo de Software del SENA, me encuentro en e
 | <img src="assets/images/logos/java.png" width="30"/><br/>Java | <img src="assets/images/logos/intellijidea.png" width="40"/><br/>IntelliJ IDEA | Básico | En Pausa |
 
 <!-- Bases De Datos Relacionales -->
-| Bases De Datos Relacionales | Nivel | Estado |
+###### Bases De Datos Relacionales:
+| SQL | Nivel | Estado |
 | :---: | :---: | :---: |
 | <img src="assets/images/logos/mysql.png" width="55" alt="Logo de MySQL" /> | Básico | En Pausa |
 | <img src="assets/images/logos/postgresql.png" width="40"/><br/>PostgreSQL | Básico | Aprendiendo |
 
 <!-- Bases de Datos NO Relacionales  -->
-| Bases De Datos No Relacionales | Nivel | Estado |
+###### Bases De Datos No Relacionales:
+| NoSQL | Nivel | Estado |
 | :---: | :---: | :---: |
 | <img src="assets/images/logos/mongodb.png" width="20"/><br/>MongoDB | Básico | En Pausa  |
 
 <!-- API  -->
-| Documentación Y Pruebas API | Nivel | Estado | Usos |
+###### Documentación Y Pruebas API:
+| Herramienta | Nivel | Estado | Usos | 
 | :---: | :---: | :---: | :---: |
 | <img src="assets/images/logos/postman.png" width="40"/><br/>Postman | Básico | En Pausa | Pocos |
